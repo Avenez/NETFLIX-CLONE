@@ -2,6 +2,10 @@
   margin-left: -12px;
 }
 
+a {
+  cursor: pointer;
+}
+
 .i-secondary {
   color: #6d757d;
   cursor: pointer;
